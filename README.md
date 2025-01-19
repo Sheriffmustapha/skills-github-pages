@@ -1,3 +1,23 @@
+
+Title: Week 1 Solution
+Exercises Solution
+
+# Exercise 1a- Solution
+a = torch.tensor([1, 2])
+     
+Additional Exercises Solution
+
+
+     
+NOTE: NOT TO BE INCLUDED IN SUBMISSION FILE
+HOW TO SUBMIT NOTES:
+
+Clone the repository
+git clone https://github.com/arewadataScience/ArewaDS-Deep-Learning.git
+Save each week's notebooks in this subfolder exercise_submissions
+Use the naming convension week_{num}_solution.ipynb e.g. week_1_solution.ipynb
+Please, make sure all the clear runs without errors and keep cell outputs before submission.
+
 <header>
 
 <!--
